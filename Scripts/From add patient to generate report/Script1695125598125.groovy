@@ -71,6 +71,8 @@ WebUI.delay(3)
 'click | css=.col-md-2 > .ng-scope > img |  | '
 selenium.click('css=.col-md-2 > .ng-scope > img')
 
+WebUI.delay(3)
+
 'type | id=first_name | test | '
 selenium.type('id=first_name', 'test')
 
@@ -83,11 +85,17 @@ selenium.type('id=current_dob', '01/01/2000')
 'type | id=mrn | abc123 | '
 selenium.type('id=mrn', 'abc123')
 
+WebUI.delay(3)
+
 'click | css=.radio-inline:nth-child(1) > .ng-binding |  | '
 selenium.click('css=.radio-inline:nth-child(1) > .ng-binding')
 
+WebUI.delay(3)
+
 'click | css=.cbtn-action:nth-child(3) |  | '
 selenium.click('css=.cbtn-action:nth-child(3)')
+
+WebUI.delay(3)
 
 'click | css=.cbtn-action:nth-child(4) |  | '
 selenium.click('css=.cbtn-action:nth-child(4)')
