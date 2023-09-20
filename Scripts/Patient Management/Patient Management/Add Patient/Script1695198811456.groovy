@@ -89,6 +89,8 @@ selenium.click('css=.radio-inline:nth-child(1) > .ng-binding')
 'click | css=.cbtn-action:nth-child(3) |  | '
 selenium.click('css=.cbtn-action:nth-child(3)')
 
+WebUI.delay(3)
+
 'click | css=.cbtn-action:nth-child(4) |  | '
 selenium.click('css=.cbtn-action:nth-child(4)')
 

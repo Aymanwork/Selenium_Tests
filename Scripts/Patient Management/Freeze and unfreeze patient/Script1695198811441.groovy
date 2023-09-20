@@ -74,6 +74,8 @@ selenium.click('css=.open .list-group-item-warning')
 'click | css=.cbtn-action:nth-child(2) |  | '
 selenium.click('css=.cbtn-action:nth-child(2)')
 
+WebUI.delay(3)
+
 'click | css=a:nth-child(6) > img |  | '
 selenium.click('css=a:nth-child(6) > img')
 
@@ -93,6 +95,8 @@ selenium.click('css=.open .list-group-item-warning')
 
 'click | css=.cbtn-action:nth-child(2) |  | '
 selenium.click('css=.cbtn-action:nth-child(2)')
+
+WebUI.delay(3)
 
 'click | css=.filter-tag > input |  | '
 selenium.click('css=.filter-tag > input')
