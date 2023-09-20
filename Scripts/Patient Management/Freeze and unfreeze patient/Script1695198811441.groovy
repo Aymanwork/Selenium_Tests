@@ -84,14 +84,22 @@ WebUI.delay(3)
 'click | css=.bootstrap-switch-label |  | '
 selenium.click('css=.bootstrap-switch-label')
 
+WebUI.delay(3)
+
 'click | css=.cbtn-action:nth-child(3) |  | '
 selenium.click('css=.cbtn-action:nth-child(3)')
+
+WebUI.delay(3)
 
 'click | css=.enabled .btn |  | '
 selenium.click('css=.enabled .btn')
 
+WebUI.delay(3)
+
 'click | css=.open .list-group-item-warning |  | '
 selenium.click('css=.open .list-group-item-warning')
+
+WebUI.delay(3)
 
 'click | css=.cbtn-action:nth-child(2) |  | '
 selenium.click('css=.cbtn-action:nth-child(2)')
