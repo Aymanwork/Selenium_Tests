@@ -73,6 +73,11 @@ selenium.click('css=.col-md-2 > .ng-scope > img')
 
 WebUI.delay(3)
 
+'click | css=.popover-btn-action:nth-child(1) |  | '
+selenium.click('css=.popover-btn-action:nth-child(1)')
+
+WebUI.delay(3)
+
 'type | id=first_name | test | '
 selenium.type('id=first_name', 'test')
 

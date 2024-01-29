@@ -80,8 +80,8 @@ selenium.click('css=.cbtn-action:nth-child(2)')
 
 WebUI.delay(3)
 
-'click | css=a:nth-child(6) > img |  | '
-selenium.click('css=a:nth-child(6) > img')
+'click | css=a:nth-child(8) > img |  | '
+selenium.click('css=a:nth-child(8) > img')
 
 WebUI.delay(3)
 
