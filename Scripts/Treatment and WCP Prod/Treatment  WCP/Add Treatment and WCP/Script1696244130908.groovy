@@ -83,7 +83,7 @@ WebUI.delay(3)
 'click | id=saveTr |  | '
 selenium.click('id=saveTr')
 
-WebUI.delay(3)
+WebUI.delay(10)
 
 'click | css=.tab-pane:nth-child(1) .green-checkbox:nth-child(1) > label |  | '
 selenium.click('css=.tab-pane:nth-child(1) .green-checkbox:nth-child(1) > label')
