@@ -12,45 +12,45 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>fe254172-46cc-4434-9025-98ee566f9ccb</testSuiteGuid>
    <testCaseLink>
-      <guid>c902eedd-66db-48c0-a3a3-aaf3bdffa861</guid>
+      <guid>7b29336b-85ae-4dd0-8538-4a4cbd380faa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Patient Management Prod/Patient Management/Add Patient</testCaseId>
+      <testCaseId>Test Cases/Patient Management Prod/Patient Management/1- Add Patient</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>59a7ca76-a4bd-4ca7-96eb-4cc67d2320e4</guid>
+      <guid>59d87dd7-09d7-4524-8f46-e76bf5bda665</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Patient Management Prod/Patient Management/Search Patient</testCaseId>
+      <testCaseId>Test Cases/Patient Management Prod/Patient Management/2- Search Patient</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>12423727-659e-4724-980d-e26229485a37</guid>
+      <guid>dbe085bb-020d-4f35-b790-67f10796b17c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Patient Management Prod/Patient Management/Freeze and Unfreeze Patient</testCaseId>
+      <testCaseId>Test Cases/Patient Management Prod/Patient Management/3- Freeze and Unfreeze Patient</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0462bebc-07e0-45b1-b82c-712afaf48431</guid>
+      <guid>19183d2f-9871-4270-b2bc-c70a2ddccd12</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Patient Management Prod/Patient Management/Edit Patient</testCaseId>
+      <testCaseId>Test Cases/Patient Management Prod/Patient Management/4- Edit Patient</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4de67514-0f86-46a9-9d99-3b2aee19a9bf</guid>
+      <guid>7095e60e-37eb-454a-ab32-cd4b4f2ba518</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Patient Management Prod/Patient Management/Delete Patient</testCaseId>
+      <testCaseId>Test Cases/Patient Management Prod/Patient Management/5- Delete Patient</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>24a8d386-6548-4f8c-9bdb-95f78c1990c2</guid>
+      <guid>80609f46-fa74-45e8-9b1e-446e36fc8627</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Patient Management Prod/Patient Management/Add Patient 2</testCaseId>
+      <testCaseId>Test Cases/Patient Management Prod/Patient Management/6- Add Patient</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
