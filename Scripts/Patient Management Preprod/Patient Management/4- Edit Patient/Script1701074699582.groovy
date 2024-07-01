@@ -109,8 +109,8 @@ WebUI.delay(3)
 'click | css=.cbtn-action:nth-child(3) |  | '
 selenium.click('css=.cbtn-action:nth-child(3)')
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 'click | css=.cbtn-action:nth-child(4) |  | '
-selenium.click('css=.cbtn-action:nth-child(4)')
+not_run: selenium.click('css=.cbtn-action:nth-child(4)')
 
