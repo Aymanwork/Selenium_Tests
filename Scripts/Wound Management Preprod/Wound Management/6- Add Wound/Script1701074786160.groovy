@@ -59,8 +59,8 @@ WebUI.delay(3)
 'type | name=username | ayman1 | '
 selenium.type('name=username', 'ayman1')
 
-'type | name=password | Ekaretest@1 | '
-selenium.type('name=password', 'Ekaretest@1')
+'type | name=password | Poiu//2222 | '
+selenium.type('name=password', 'Poiu//2222')
 
 'click | css=.btn-ekare |  | '
 selenium.click('css=.btn-ekare')
